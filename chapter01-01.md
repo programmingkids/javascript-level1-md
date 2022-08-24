@@ -25,6 +25,16 @@ Hello JavaScript
 Hello JavaScript
 ```
 
+
+
+## ワーク1 <br /> コンソールに表示しよう
+コンソール画面へ表示する処理を作りましょう
+```javascript
+for( var i = 0; i < 10; i++ ) {
+    console.log( i );
+}
+```
+
 今回の場合、「Hello JavaScript」と画面に表示するプログラムになります
 
 
