@@ -91,4 +91,4 @@ JavaScirptレベル1では以下の点を学習します
 
 ## 次に進む
 
-(Go To Next)['/']  
+[Go to Next](/)
