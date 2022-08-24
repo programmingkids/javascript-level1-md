@@ -1,5 +1,4 @@
-# JavaScript  
-レベル1
+# JavaScript  レベル1
   
 
 
