@@ -91,4 +91,5 @@ JavaScirptレベル1では以下の点を学習します
 
 ## 次に進む
 
-[Go to Next](/)
+[Go to Next](/)  
+[yahoo](Http://www.yahoo.co.jp/)  
